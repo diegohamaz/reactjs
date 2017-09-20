@@ -1,19 +1,18 @@
-# ReactJS Socket.io Chat Application
+# Aplicação de CHAT com ReactJS Socket.io 
 
-See This Blog Post : [ReactJS and Socket.IO Chat Application](http://danialk.github.io/blog/2013/06/16/reactjs-and-socket-dot-io-chat-application/)
 
-## Running it
+## Executando
 
-First, grab the dependencies:
+Primeiro instale as dependencias
 
     npm install
 
-Build the applicaiton
+Buil a aplicação
 	
 	npm run build
 
-Then run the app like so:
+Após isso só rodar o comando:
 
     npm start
 
-And navigate to `localhost:3000` and chat !
+E digite `localhost:3000` e comece o chat !
